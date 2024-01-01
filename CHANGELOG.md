@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [6.9.9](https://github.com/nodemailer/nodemailer/compare/v6.9.8...v6.9.9) (2024-01-01)
+
+
+### Bug Fixes
+
+* **tests:** Use native node test runner, added code coverage support, removed grunt ([#1604](https://github.com/nodemailer/nodemailer/issues/1604)) ([be45c1b](https://github.com/nodemailer/nodemailer/commit/be45c1b299d012358d69247019391a02734d70af))
+
 ## [6.9.8](https://github.com/nodemailer/nodemailer/compare/v6.9.7...v6.9.8) (2023-12-30)
 
 
